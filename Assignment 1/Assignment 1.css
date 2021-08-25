@@ -1,0 +1,22 @@
+div.head {
+    background-color: rgb(156, 245, 215);
+    border: black;
+    margin: 10px;
+    padding: 10px;
+    font-style: italic;
+}
+div.Introduction {
+    background-color: rgb(241, 149, 168);
+    border: black;
+    margin: 10px;
+    padding: 10px;
+
+}
+div.LAstPart {
+    background-color: blanchedalmond;
+    border: 10px;
+    margin: 10px;
+    padding: 10px;
+    
+
+}
